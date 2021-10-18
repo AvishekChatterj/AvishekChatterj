@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I am Avishek Chatterjee and currently I am Java Development Intern at FULL Creative Chennai. 
 
 <!--
 **AvishekChatterj/AvishekChatterj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
